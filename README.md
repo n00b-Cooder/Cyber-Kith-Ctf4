@@ -13,3 +13,8 @@ wget https://github.com/n00b-Cooder/Cyber-Kith-Ctf4/blob/main/password.txt
 ```
 best of luck
 
+# Walkthrough Vedio malayalam 👇link👇.
+```
+https://youtu.be/rILwq7Xk3PA
+```
+## Write up will be posted soon.
