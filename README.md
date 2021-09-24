@@ -1,3 +1,5 @@
+# already been solved 
+# some of the resources may be removed already
 # Cyber-Kith-Ctf4
 ## Step1 : Download image from 👇below👇 given link
 #### NOTE: Two links are provided both the links contain same file.
